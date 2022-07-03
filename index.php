@@ -77,7 +77,7 @@
                     
                     <div>
                         <h2 class="about__subtitle">I'am Jaliya Madusanka</h2>
-                        <p class="about__text">My name is Jaliya Madusanka,currently I am learning software engineering at NSBM University in Sri Lanka.<br>After learning web desing and in university and work with some web related project I got experience to build website my self. I love coding and desing creative content for website.If I am not codeing probably you can see I'm playing table tennis or hanging with my friends.I like to volunteering  any IT related work to gain my experince.<br><h4>If you want to contact me contact me via social media or send me an email.</h4></p>           
+                        <p class="about__text">My name is Jaliya Madusanka,currently I am learning software engineering at NSBM University in Sri Lanka.<br>After learning web desing in university and work with some web related project I got experience to build website my self. I love coding and desing creative content for website.If I am not codeing probably you can see I'm playing table tennis or hanging with my friends.I like to volunteering  any IT related work to gain my experince.<br><h4>If you want to contact me contact me via social media or send me an email.</h4></p>           
                     </div>                                   
                 </div>
             </section>
