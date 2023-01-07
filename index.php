@@ -182,6 +182,9 @@
                         <img src="assets/img/work6.jpg" alt="">
                     </a>-->
                 </div>
+
+                <h2 class="section-title">Viste My Blog</h2>
+                <iframe src="https://jaliyamadusanka.blogspot.com/" width="400" height="400"></iframe>
             </section>
 
             <!--===== CONTACT =====-->
