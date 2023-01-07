@@ -182,7 +182,11 @@
                         <img src="assets/img/work6.jpg" alt="">
                     </a>-->
                 </div>
+            </section>
+            
+            <!--===== BLOG =====-->
 
+            <section>
                 <a href="https://jaliyamadusanka.blogspot.com/"><h2 class="section-title">Viste My Blog</h2></a>
                 <p align="center"><iframe src="https://jaliyamadusanka.blogspot.com/" width="1000" height="400"></iframe></p>
             </section>
