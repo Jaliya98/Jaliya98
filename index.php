@@ -184,7 +184,7 @@
                 </div>
 
                 <h2 class="section-title">Viste My Blog</h2>
-                <p align="center"><iframe src="https://jaliyamadusanka.blogspot.com/" width="1000" height="400"></iframe></p>
+                <p align="center"><iframe src="https://jaliyamadusanka.blogspot.com/" width="1200" height="400"></iframe></p>
             </section>
 
             <!--===== CONTACT =====-->
