@@ -43,7 +43,7 @@
             <!--===== HOME =====-->
             <section class="home bd-grid" id="home">
                 <div class="home__data">
-                    <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Jaliya</span><br>Full Stack Developer</h1>
+                    <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Jaliya</span><br>Software Developer</h1>
 
                     <a href="assets/cv/JALIYA MADUSANKA BANDARA.pdf" class="button">Download CV</a>
                 </div>
