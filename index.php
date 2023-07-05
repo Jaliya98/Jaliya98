@@ -163,14 +163,14 @@
                 <h2 class="section-title">Work</h2>
 
                 <div class="work__container bd-grid">
-                    <a href="https://www.ministryofcoffe.com/" class="work__img">
+                    <a href="https://github.com/Jaliya98/ministyofcoffee.git" class="work__img">
                         <img src="assets/img/work1.jpg" alt="">
                     </a>
-                    <a href="https://newtest011.herokuapp.com/" class="work__img">
+                    <a href="https://github.com/Jaliya98/newtest.git" class="work__img">
                         <img src="assets/img/work2.jpg" alt="">
                     </a>
-                    <a href="" class="work__img">
-                        <img src="assets/img/work3.jpg" alt="">
+                    <a href="https://blessinghearts.ca/" class="work__img">
+                        <img src="assets/img/work13.jpg" alt="">
                     </a>
                     <!--<a href="" class="work__img">
                         <img src="assets/img/work4.jpg" alt="">
