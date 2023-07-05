@@ -170,7 +170,7 @@
                         <img src="assets/img/work2.jpg" alt="">
                     </a>
                     <a href="https://blessinghearts.ca/" class="work__img">
-                        <img src="assets/img/work13.jpg" alt="">
+                        <img src="assets/img/work13.png" alt="">
                     </a>
                     <!--<a href="" class="work__img">
                         <img src="assets/img/work4.jpg" alt="">
