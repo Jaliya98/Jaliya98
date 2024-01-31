@@ -129,7 +129,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-java bx-md' ></i>
+                                <i class='bx bxl-java' ></i>
                                 <span class="skills__name">Java</span>
                             </div>
                             <div class="skills__bar skills__ux">
@@ -141,7 +141,7 @@
                         </div>
                          <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-php bx-md' ></i>
+                                <i class='bx bxl-php bx-md'></i>
                                 <span class="skills__name">Php</span>
                             </div>
                             <div class="skills__bar skills__ux">
