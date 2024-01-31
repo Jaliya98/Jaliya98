@@ -94,7 +94,7 @@
                         <div class="skills__data">
                             <div class="skills__names">
                                 <i class='bx bxl-html5 skills__icon'></i>
-                                <i class='bx bxl-html5'></i>
+                                <i class='bx bxl-html5 bx-md'></i>
                                 <span class="skills__name">HTML5</span>
                             </div>
                             <div class="skills__bar skills__html">
