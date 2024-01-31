@@ -93,7 +93,6 @@
                         <p class="skills__text">After Two year of university I learn these Languages,Also I still working on lnaguages to learn more </p>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-html5 skills__icon'></i>
                                 <i class='bx bxl-html5 bx-md'></i>
                                 <span class="skills__name">HTML5</span>
                             </div>
@@ -106,7 +105,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-css3 skills__icon'></i>
+                                <i class='bx bxl-css3' ></i>
                                 <span class="skills__name">CSS3</span>
                             </div>
                             <div class="skills__bar skills__css">
@@ -118,7 +117,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-javascript skills__icon' ></i>
+                                <i class='bx bxs-file-js' ></i>
                                 <span class="skills__name">JAVASCRIPT</span>
                             </div>
                             <div class="skills__bar skills__js">
@@ -130,7 +129,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-java skills__icon'></i>
+                                <i class='bx bxl-java' ></i>
                                 <span class="skills__name">Java</span>
                             </div>
                             <div class="skills__bar skills__ux">
@@ -142,7 +141,7 @@
                         </div>
                          <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-php skills__icon'></i>
+                                <i class='bx bxl-php' ></i>
                                 <span class="skills__name">Php</span>
                             </div>
                             <div class="skills__bar skills__ux">
