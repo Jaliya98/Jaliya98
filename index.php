@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="assets/css/styles.css">
 
         <!-- =====BOX ICONS===== -->
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -93,6 +94,7 @@
                         <div class="skills__data">
                             <div class="skills__names">
                                 <i class='bx bxl-html5 skills__icon'></i>
+                                <i class='bx bxl-html5'></i>
                                 <span class="skills__name">HTML5</span>
                             </div>
                             <div class="skills__bar skills__html">
