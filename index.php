@@ -105,7 +105,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-css3' ></i>
+                                <i class='bx bxl-css3 bx-md' ></i>
                                 <span class="skills__name">CSS3</span>
                             </div>
                             <div class="skills__bar skills__css">
@@ -117,7 +117,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxs-file-js' ></i>
+                                <i class='bx bxs-file-js bx-md' ></i>
                                 <span class="skills__name">JAVASCRIPT</span>
                             </div>
                             <div class="skills__bar skills__js">
@@ -129,7 +129,7 @@
                         </div>
                         <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-java' ></i>
+                                <i class='bx bxl-java bx-md' ></i>
                                 <span class="skills__name">Java</span>
                             </div>
                             <div class="skills__bar skills__ux">
@@ -141,7 +141,7 @@
                         </div>
                          <div class="skills__data">
                             <div class="skills__names">
-                                <i class='bx bxl-php' ></i>
+                                <i class='bx bxl-php bx-md' ></i>
                                 <span class="skills__name">Php</span>
                             </div>
                             <div class="skills__bar skills__ux">
